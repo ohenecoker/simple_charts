@@ -1,0 +1,11 @@
+{
+  "name": "Bar graph renderer",
+  "id": "1134127543387245069",
+  "api": "1.0.0",
+  "main": "code.js",
+  "editorType": [
+    "figma",
+    "figjam"
+  ],
+  "ui": "ui.html"
+}
